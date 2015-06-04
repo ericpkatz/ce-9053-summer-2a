@@ -1,0 +1,28 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
+  "main": "karma.conf.js",
+  "dependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.35",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "karma-story-reporter": "^0.3.1",
+    "phantomjs": "^1.9.17",
+    "karma-jasmine": "^0.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericpkatz/ce-9053-summer-2a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericpkatz/ce-9053-summer-2a/issues"
+  },
+  "homepage": "https://github.com/ericpkatz/ce-9053-summer-2a"
+}
